@@ -5,3 +5,4 @@ function qosh(a,b){
     return a + b;
 }
 //git Hub sayitidan yozilgan xabar!
+//git hub saytidan yuklangan kod
