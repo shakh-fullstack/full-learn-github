@@ -1,1 +1,2 @@
-console.log("Hello git");
+console.log("Hello staged");
+console.log("Soft reset  testi");
