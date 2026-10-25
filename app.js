@@ -4,3 +4,4 @@ console.log("github");
 function qosh(a,b){
     return a + b;
 }
+//git Hub sayitidan yozilgan xabar!
